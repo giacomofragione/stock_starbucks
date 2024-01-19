@@ -1,6 +1,6 @@
 # Time Series Analysis of Closing Prize of Starbucks Stock
 
-This repository presents a machine learning model to forecast the closing prize of Starbucks stock. The modeled utilized is an ARIMA model, which could capture trends, seasonality, and forecast prices as a baseline.
+This repository presents a machine learning model to forecast the closing prize of Starbucks stock. The model utilized is an ARIMA model, which could capture trends, seasonality, and forecast prices as a baseline.
 
 ### Code
 
