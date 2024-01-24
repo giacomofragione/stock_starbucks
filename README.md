@@ -18,3 +18,4 @@ Starbucks Price Data from January 2023 to January 2024.
 
 Close Price: The closing price of Starbucks for each day.
 
+
